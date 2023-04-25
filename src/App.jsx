@@ -12,7 +12,7 @@ export default class App extends Component {
   pexelsClient = null
 
   componentDidMount() {
-    this.pexelsClient = createClient("dnmLDlInmb0NROHPacEka3W6CMbPQl6YKsoduTNjdforipVqG4DYX2f8")
+    this.pexelsClient = createClient("xxxx")
   }
 
   onBuscaRealizada = (termo) => {
